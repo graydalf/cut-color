@@ -1,0 +1,10 @@
+F:\GitHub\cut-color\CutColor\CutColor\bin\Debug\CutColor.exe.config
+F:\GitHub\cut-color\CutColor\CutColor\bin\Debug\CutColor.exe
+F:\GitHub\cut-color\CutColor\CutColor\bin\Debug\CutColor.pdb
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.csprojAssemblyReference.cache
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.MainForm.resources
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.Properties.Resources.resources
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.csproj.GenerateResource.cache
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.csproj.CoreCompileInputs.cache
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.exe
+F:\GitHub\cut-color\CutColor\CutColor\obj\Debug\CutColor.pdb
